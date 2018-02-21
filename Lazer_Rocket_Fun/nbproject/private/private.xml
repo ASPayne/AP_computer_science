@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/SpaceObjects/SpaceShip.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/SpaceObjects/SpaceObject.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Game/SpaceArena.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/SpaceObjects/AlienShip.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Fields/Menu.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/SpaceObjects/interfaces/moveable.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Fields/Field.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Characters/Ship.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/SpaceObjects/interfaces/explodeable.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Game/mainGame.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Characters/Dot.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/SpaceObjects/interfaces/paintable.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/SpaceObjects/Bullet.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Fields/keyBasher.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/SpaceObjects/Player.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Characters/Alien1.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Characters/Alien4.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Lazer_Rocket_Fun.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Fields/FieldBoss.java</file>
+            <file>file:/home/andrew/Code/Java/Lazer_Rocket_Fun/src/Galaga/Characters/Alien.java</file>
+        </group>
+    </open-files>
+</project-private>
